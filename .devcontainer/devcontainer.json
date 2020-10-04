@@ -19,7 +19,7 @@
 
 	// Visual Studio Code extensions (plugins) to be installed.
 	"extensions": [
-		"ms-vscode.cpptools"
+		"ms-vscode.cpptools", "ms-vscode.cmake-tools"
 	],
 
 	// Command to be executed after the container is created.

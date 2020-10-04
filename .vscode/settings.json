@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "zengithub.h": "c"
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/src",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}
